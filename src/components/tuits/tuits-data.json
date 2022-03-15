@@ -1,4 +1,4 @@
-const data = [
+[
   {
     "username": "NASA",
     "handle": "NASA",
@@ -43,7 +43,5 @@ const data = [
       "retuits": 234,
       "likes": 345
     }
-  },
-];
-
-export default data;
+  }
+]
