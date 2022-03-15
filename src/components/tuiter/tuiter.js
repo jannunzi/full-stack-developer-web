@@ -15,7 +15,7 @@ import More from "../more";
 function Tuiter () {
   return(
     <BrowserRouter>
-      <div className="container">
+      {/*<div className="container">*/}
         <div className="ttr-tuiter">
           <div className="ttr-left-column">
             <Navigation/>
@@ -39,7 +39,7 @@ function Tuiter () {
             <WhatsHappening/>
           </div>
         </div>
-      </div>
+      {/*</div>*/}
     </BrowserRouter>
   );
 }
