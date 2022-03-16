@@ -4,17 +4,20 @@ import './styles.css';
 // import Tuits from "./components/tuits";
 // import WhatsHappening from "./components/whats-happening/whats-happening";
 // import Bookmarks from "./components/bookmarks/bookmarks";
-import Tuiter from "./components/tuiter/tuiter";
+// import Tuiter from "./components/tuiter/tuiter";
 import HelloWorld from "./components/hello-world";
-import {BrowserRouter} from "react-router-dom";
-
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import Examples from "./components/examples";
 function App() {
   return (
-    <div className="container">
-    {/*<HelloWorld/>*/}
-    <Tuiter/>
-    </div>
+    <BrowserRouter>
+      <div className="container">
+        <Routes>
+          <Route path="/examples" exact={true} element={<Examples/>}/>
+          <Route path="/hello" element={<HelloWorld/>}/>
+        </Routes>
+      </div>
+    </BrowserRouter>
   );
 }
-
 export default App;

@@ -1,7 +1,13 @@
+import {Link} from "react-router-dom";
+
 const HelloWorld = () => {
   return(
-    <h1>Hello World!</h1>
+    <div>
+      <h1>Hello World!</h1>
+      <Link to="/examples">
+        Examples
+      </Link>
+    </div>
   );
 }
-
 export default HelloWorld;
