@@ -5,5 +5,10 @@
   "lastName": "Wonderland",
   "bio": "An American aerospace manufacturer, a provider of space transportation services, and a communications corporation headquartered in Hawthorne, California",
   "dob": "2002-03-14",
-  "role": "ENGINEER"
+  "role": "ENGINEER",
+  "topTuits": "WEEKLY",
+  "yourTuits": {
+    "NEW": true,
+    "DIRECT": true
+  }
 }
