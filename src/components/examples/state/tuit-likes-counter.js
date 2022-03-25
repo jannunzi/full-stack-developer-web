@@ -2,6 +2,7 @@ import {useState} from "react";
 
 const TuitLikesCounter = () => {
   const [likes, setLikes] = useState(12);
+
   const likeTuit = () => {
     setLikes(likes + 1);
   }

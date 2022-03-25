@@ -9,10 +9,14 @@ import ShoppingCartFunctionalComponent
   from "./shopping-cart/cart-functional/shopping-cart-functional-component";
 import TuitLikesCounter from "./state/tuit-likes-counter";
 import EditProfileScreen from "./state/edit-profile-screen";
+import ReduxExamples from "./redux/redux-examples";
+import WorkingWithArrays from "./arrays/working-with-arrays";
 const Examples = () => {
   return(
     <div>
       <h1>Examples</h1>
+      <WorkingWithArrays/>
+      <ReduxExamples/>
       <EditProfileScreen/>
       <TuitLikesCounter/>
       <ShoppingCartFunctionalComponent/>

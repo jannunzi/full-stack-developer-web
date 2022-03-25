@@ -1,13 +1,11 @@
 [
   {
-    "tuit": "In 2021, our @NASAPersevere Mars rover landed",
-    "content": "In 2021, our @NASAPersevere Mars rover landed and our Ingenuity helicopter took flight. Two asteroid missions launched to the skies, and another began its journey home to Earth. A look back at highlights for our #NASAScience planetary missions: https://go.nasa.gov/32zX2fE",
-    "_id": "123",
     "postedBy": {
       "username": "NASA"
     },
     "username": "NASA",
     "handle": "NASA",
+    "tuit": "In 2021, our @NASAPersevere Mars rover landed and our Ingenuity helicopter took flight. Two asteroid missions launched to the skies, and another began its journey home to Earth. A look back at highlights for our #NASAScience planetary missions: https://go.nasa.gov/32zX2fE",
     "image": "perseverance.jpg",
     "youtube": null,
     "avatar-logo": "nasa-logo.jpg",
@@ -17,18 +15,15 @@
       "replies": 123,
       "retuits": 234,
       "likes": 345
-    },
-    "likes": 123
+    }
   },
   {
-    "_id": "234",
-    "tuit": "Ingenuity helicopter took flight",
-    "likes": 234,
     "postedBy": {
       "username": "NASA"
     },
     "username": "NASA",
     "handle": "NASA",
+    "tuit": "In 2021, our @NASAPersevere Mars rover landed and our Ingenuity helicopter took flight. Two asteroid missions launched to the skies, and another began its journey home to Earth. A look back at highlights for our #NASAScience planetary missions: https://go.nasa.gov/32zX2fE",
     "image": "perseverance.jpg",
     "youtube": null,
     "avatar-logo": "nasa-logo.jpg",
@@ -41,14 +36,12 @@
     }
   },
   {
-    "tuit": "@SpaceX Dragon spacecraft returns to Earth",
-    "likes": 345,
-    "_id": "345",
     "postedBy": {
       "username": "SpaceX"
     },
     "username": "SpaceX",
     "handle": "SpaceX",
+    "tuit": "@SpaceX Dragon spacecraft returns to Earth with @ISS_Research that could help us better understand neurodegenerative diseases, gene expression, & muscle atrophy. Undocking from the @Space_Station is at 9:05am ET (13:05 UT). Watch:",
     "image": null,
     "youtube": "https://www.youtube.com/embed/TeVbYCIFVa8",
     "avatar-logo": "spacex.jpg",
