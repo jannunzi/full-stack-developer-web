@@ -12,7 +12,7 @@ export default class ShoppingCartItemClass
           <div className="col">{this.state.name}</div>
           <div className="col text-end">${this.state.price}</div>
           <div className="col text-end">{this.state.quantity}</div>
-          <div className="col text-end">${this.state. price * this.state.quantity}</div>
+          <div className="col text-end">${this.state.price * this.state.quantity}</div>
         </div>
       </li>
     );

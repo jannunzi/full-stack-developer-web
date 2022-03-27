@@ -3,12 +3,12 @@ const ReduxLikesCounter = () => {
   const likes = useSelector(state => state.likes);
   // const helloTo = useSelector(state => state.helloTo);
   const dispatch = useDispatch();
-  const updateLikes = (likes) => {
-    dispatch({
-      type: 'UPDATE_LIKES',
-      likes: likes
-    })
-  }
+  // const updateLikes = (likes) => {
+  //   dispatch({
+  //     type: 'UPDATE_LIKES',
+  //     likes: likes
+  //   })
+  // }
   const likeTuit = () => {
     dispatch({
       type: "LIKE_TUIT"

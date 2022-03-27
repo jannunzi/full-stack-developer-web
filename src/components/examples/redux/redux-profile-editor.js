@@ -1,4 +1,4 @@
-import profile from "./profile.json";
+// import profile from "./profile.json";
 import {useState} from "react";
 import spacex from "../state/profile.json";
 
