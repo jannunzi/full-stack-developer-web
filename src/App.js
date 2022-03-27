@@ -20,7 +20,7 @@ function App() {
         <Routes>
           {/*<Route path="/examples" exact={true} element={<Examples/>}/>*/}
           <Route path="/hello" element={<HelloWorld/>}/>
-          <Route path="/tuiter" element={<Tuiter/>}/>
+          <Route path="/" element={<Tuiter/>}/>
         </Routes>
       </div>
     </BrowserRouter>
