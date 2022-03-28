@@ -1,13 +1,12 @@
 [
   {
-    "tuit": "In 2021, our @NASAPersevere Mars rover landed",
-    "content": "In 2021, our @NASAPersevere Mars rover landed and our Ingenuity helicopter took flight. Two asteroid missions launched to the skies, and another began its journey home to Earth. A look back at highlights for our #NASAScience planetary missions: https://go.nasa.gov/32zX2fE",
     "_id": "123",
     "postedBy": {
       "username": "NASA"
     },
     "username": "NASA",
     "handle": "NASA",
+    "tuit": "In 2021, our @NASAPersevere Mars rover landed",
     "image": "perseverance.jpg",
     "youtube": null,
     "avatar-logo": "nasa-logo.jpg",
@@ -22,13 +21,12 @@
   },
   {
     "_id": "234",
-    "tuit": "Ingenuity helicopter took flight",
-    "likes": 234,
     "postedBy": {
       "username": "NASA"
     },
     "username": "NASA",
     "handle": "NASA",
+    "tuit": "Ingenuity helicopter takes flight.",
     "image": "perseverance.jpg",
     "youtube": null,
     "avatar-logo": "nasa-logo.jpg",
@@ -38,22 +36,23 @@
       "replies": 123,
       "retuits": 234,
       "likes": 345
-    }
+    },
+    "likes": 234
   },
   {
-    "tuit": "@SpaceX Dragon spacecraft returns to Earth",
-    "likes": 345,
     "_id": "345",
     "postedBy": {
       "username": "SpaceX"
     },
     "username": "SpaceX",
     "handle": "SpaceX",
+    "tuit": "@SpaceX Dragon spacecraft returns to Earth",
     "image": null,
     "youtube": "https://www.youtube.com/embed/TeVbYCIFVa8",
     "avatar-logo": "spacex.jpg",
     "published": "Dec 25, 2021",
     "image-overlay": null,
+    "likes": 345,
     "stats": {
       "replies": 123,
       "retuits": 234,
