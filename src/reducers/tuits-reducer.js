@@ -12,8 +12,8 @@ const tuitsReducer = (state = [], action) => {
           action.tuit : tuit);
     case CREATE_TUIT:
       return [
-        action.newTuit,
-        ...state
+        ...state,
+        action.newTuit
       ];
     case FIND_ALL_TUITS:
       return action.tuits;
