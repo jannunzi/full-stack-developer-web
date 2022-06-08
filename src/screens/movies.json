@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "123",
+    "title": "Lord of The Rings",
+    "plot": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth."
+  },
+  {
+    "_id": "234",
+    "title": "Avatar",
+    "plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
+  },
+  {
+    "_id": "345",
+    "title": "Star Wars",
+    "plot": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+  }
+]
